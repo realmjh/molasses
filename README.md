@@ -11,7 +11,6 @@ on Linux and therefore I cannot confirm it's performance on Windows machines. Pl
 * For futher clarification, this was developed on Linux Mint 💯
 
 ## -- Copyright / Usage --
-Anybody is free to use Molasses. I however, for this project, am operating a zero-corporate policy.
+Anybody is free to use Molasses. I however for this project, am operating a zero-corporate policy.
 
-This means that no company, corporation, or recognized-entity shall use my code for their benefit. They are free to use the program, but may not use the code in any way, shape, or form. 
-
+This means that no company, corporation, or recognized-entity shall use my code for their benefit. They are free to use the program, but may not copy the code in any way, shape, or form. 
